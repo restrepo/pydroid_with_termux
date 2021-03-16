@@ -8,7 +8,8 @@ Pydroid is a Python IDE for android, it includes `pip` and therefore the possibi
 jupyter-lab
 ```
 which opens the Jupyter Lab interface in the browser, like in the image below
-<div style="float: right;" markdown="1">
+
+<div style="float: right;width=100;" markdown="1">
 <img src="https://github.com/restrepo/pydroid_with_termux/raw/main/img/chrome.jpeg" />
 </div>
 

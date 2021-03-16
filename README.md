@@ -7,7 +7,7 @@ Pydroid is a Python IDE for android, it includes `pip` and therefore the possibi
 ```bash
 jupyter-lab
 ```
-which opens the Jupyter Lab interface in the browser, like in the image below
+which opens the Jupyter Lab interface in the browser, like in the image [at the end]()
 
 <div style="float: right;width: 100;" markdown="1">
 <img src="https://github.com/restrepo/pydroid_with_termux/raw/main/img/chrome.jpeg" />

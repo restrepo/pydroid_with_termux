@@ -8,7 +8,7 @@ Pydroid is a Python IDE for android, it includes `pip` and therefore the possibi
 /storage/emulated/0 $ jupyter-lab
 ```
 which opens the Jupyter Lab interface in the browser, like in the image below
-![img][chrome.jpeg]
+![img][img/chrome.jpeg]
 
 ## Termux
 Install "Termux" from Google Play in your phone. Open the application and in terminal prompt type

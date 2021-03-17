@@ -14,8 +14,8 @@ which would open the JupyterLab interface in the browser, as shown in the image 
 ```bash
 termux-setup-storage
 ```
-and in the emergent popup allow Termux to access photos, media, and files on your device.
-In particular, this would allow for read/write permissions in the `/storage/emulated/0` directory to be shared with Pydroid 3.
+and in the emergent popup allows "Termux to access photos, media, and files on your device".
+In particular, this would allow for read/write permissions in the `/storage/emulated/0` directory to be shared with "Pydroid 3".
 
 * Install `git` with
 ```bash

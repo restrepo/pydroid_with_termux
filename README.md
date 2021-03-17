@@ -1,6 +1,6 @@
 # JupyterLab in Pydroid 3 with Termux (and Hacker's Keyboard)
 ## Pydroid 3
-Pydroid is a Python IDE for android, it includes `pip` and therefore the possibility to install JupyterLab. 
+"Pydroid 3" is a Python IDE for android, it includes `pip` and therefore the possibility to install JupyterLab. 
 
 * Install "Pydroid 3 - IDE for Python 3" from Google Play in your phone
 * Open "Pydroid 3". From the application menu choose "PIP" and on install type `jupyterlab`. See [here](https://stackoverflow.com/a/51581309/2268280) for details. * To check the installation, from the application menu choose "Terminal" and in the terminal prompt type
@@ -10,12 +10,12 @@ jupyter-lab
 which would open the JupyterLab interface in the browser, like in the image in the [section below](https://github.com/restrepo/pydroid_with_termux/blob/main/README.md#termux)
 
 ## Termux
-* Install "Termux" from Google Play in your phone. Open the application and in terminal prompt type
+* Install Termux from Google Play in your phone. Open the application, then in the terminal prompt, type
 ```bash
 termux-setup-storage
 ```
-and in the popup allow Termux to access photos, media, and files on your device.
-In particular, this allow for read/write permissions in the `/storage/emulated/0` directory to be shared with Pydroid 3.
+and in the emergent popup allow Termux to access photos, media, and files on your device.
+In particular, this would allow for read/write permissions in the `/storage/emulated/0` directory to be shared with Pydroid 3.
 
 * Install `git` with
 ```bash
@@ -29,7 +29,7 @@ mkdir prog
 cd prog
 ```
 
-* Download some GitHub repository with Jupyter notebooks in the working directory
+* In this working directory, download some GitHub repository which includes some Jupyter notebooks 
 ```bash
 git clone https://github.com/restrepo/ComputationalMethods.git
 ```

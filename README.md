@@ -7,7 +7,7 @@
 ```bash
 jupyter-lab
 ```
-which would open the JupyterLab interface in the browser, as shown in the image before the [last section](https://github.com/restrepo/pydroid_with_termux/blob/main/README.md#termux)
+which would open the JupyterLab interface in the browser, as shown in the image before the [last section](https://github.com/restrepo/pydroid_with_termux/blob/main/README.md#hackers-keyboard)
 
 ## Termux
 * Install Termux from Google Play in your phone. Open the application, then in the terminal prompt, type

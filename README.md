@@ -1,6 +1,6 @@
 # JupyterLab in Pydroid 3 with Termux (and Hacker's Keyboard)
 ## Pydroid 3
-"Pydroid 3" is a Python IDE for android, it includes `pip` and therefore the possibility to install JupyterLab. 
+"Pydroid 3" is a Python IDE for android, it includes `pip` and therefore the possibility to install Jupyter or JupyterLab. 
 
 * Install "Pydroid 3 - IDE for Python 3" from Google Play in your phone
 * Open "Pydroid 3". From the application menu choose "PIP". 

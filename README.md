@@ -10,7 +10,7 @@
 jupyter-notebook
 ``` 
 > which would open the JupyterLab interface in the browser. It opens a light interface more well suited for cellphone screens (Each cell includes an execution button)
-* Optionaly you could use instead the `jupyterlab`: Choose PIP → INSTALL and type `jupyterlab`. See [here](https://stackoverflow.com/a/51581309/2268280) for details. In the terminal prompt, type: `jupyter-lab`, which would open the JupyterLab interface in the browser as shown in the image before the [last section](https://github.com/restrepo/pydroid_with_termux/blob/main/README.md#hackers-keyboard).
+* Optionaly you could install instead the `jupyterlab`: Choose PIP → INSTALL and type `jupyterlab`. See [here](https://stackoverflow.com/a/51581309/2268280) for details. In the terminal prompt, type: `jupyter-lab`, which would open the JupyterLab interface in the browser as shown in the image before the [last section](https://github.com/restrepo/pydroid_with_termux/blob/main/README.md#hackers-keyboard).
 * In both cases you can close the aplication from the "Terminal" by using the `<CTRL>+c` key shortcut (see [last section](https://github.com/restrepo/pydroid_with_termux/blob/main/README.md#hackers-keyboard) to install an shortcuts enabled keyboard )
 
 ## Termux

@@ -43,7 +43,7 @@ git clone https://github.com/restrepo/ComputationalMethods.git
 ## Hacker's Keyboard
 It is recommended to have a better keyboard for easier programming editing:
 * Install "Hacker's Keyboard" from Google Play in your phone
-* Go to the "Manage keyboards" settings and activate "Hacker's Keyboard"
+* Go to the "Manage keyboards" settings and activate "Hacker's Keyboard": Settings → System → "Languages & Input" → "Virtual keyboard" → "Manage keyboards".
 * From the Gboard keep the space bar pressed until the dialog to switch keyboards appears, and then change to "Hacker's Keyboard" 
 * Hit the configuration key situed on the right of microphone key
 * Select "Keyboard mode, portrait" and switch to the 5-row compact layout

@@ -17,7 +17,7 @@ jupyter-notebook
 * Install Termux from Google Play in your phone. Open the application, then in the terminal prompt, type
 ```bash
 termux-setup-storage
-```e
+```
 and in the emergent popup allows "Termux to access photos, media, and files on your device".
 In particular, this would allow for read/write permissions in the `/storage/emulated/0` directory to be shared with "Pydroid 3".
 

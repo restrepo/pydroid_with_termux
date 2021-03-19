@@ -4,20 +4,20 @@
 
 * Install "Pydroid 3 - IDE for Python 3" from Google Play in your phone
 * Open "Pydroid 3". From the application menu choose "PIP". 
-* Check the "QUICK INSTALL" menu for further popular Python install `jupyter` (the old notebook interface) and maybe `matplotlib`, `numpy`, `pandas` and `scipy`.
-* To check the installation, from the application menu choose "Terminal" and in the terminal prompt type
+* Choose "QUICK INSTALL" and search and install `jupyter` (the old notebook interface), and maybe `matplotlib`, `numpy`, `pandas` and `scipy`, etc.
+* To check the installation, from the application menu choose "Terminal" and in the terminal prompt, type
 ```bash
 jupyter-notebook
 ```
-which would open the JupyterLab interface in the browser, as shown in the image before the [last section](https://github.com/restrepo/pydroid_with_termux/blob/main/README.md#hackers-keyboard). It works with a lighter interface more well suited for cellphone screens (Each cell includes an execution button)
-* Optionaly you could use instead the `jupyterlab`: on PIP → install type `jupyterlab`. See [here](https://stackoverflow.com/a/51581309/2268280) for details
-* In both cases you can close the aplication from the "Terminal" by using the `<CTRL>+c` key shortcut (see [last section](https://github.com/restrepo/pydroid_with_termux/blob/main/README.md#hackers-keyboard) )
+which would open the JupyterLab interface in the browser. It opens a light interface more well suited for cellphone screens (Each cell includes an execution button)
+* Optionaly you could use instead the `jupyterlab`: Choose PIP → INSTALL and type `jupyterlab`. See [here](https://stackoverflow.com/a/51581309/2268280) for details. In the terminal prompt, type: `jupyter-lab`, which would open the JupyterLab interface in the browser as shown in the image before the [last section](https://github.com/restrepo/pydroid_with_termux/blob/main/README.md#hackers-keyboard).
+* In both cases you can close the aplication from the "Terminal" by using the `<CTRL>+c` key shortcut (see [last section](https://github.com/restrepo/pydroid_with_termux/blob/main/README.md#hackers-keyboard) to install a programming keyboard)
 
 ## Termux
 * Install Termux from Google Play in your phone. Open the application, then in the terminal prompt, type
 ```bash
 termux-setup-storage
-```
+```e
 and in the emergent popup allows "Termux to access photos, media, and files on your device".
 In particular, this would allow for read/write permissions in the `/storage/emulated/0` directory to be shared with "Pydroid 3".
 

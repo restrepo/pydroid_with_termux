@@ -37,7 +37,7 @@ cd prog
 ```bash
 git clone https://github.com/restrepo/ComputationalMethods.git
 ```
-* From the JupyterLab interface in the browser, open some notebook...
+* From the Jupyter or JupyterLab interface in the browser, open some notebook...
 ![img](https://github.com/restrepo/pydroid_with_termux/raw/main/img/jupyter.jpeg)
 
 ## Hacker's Keyboard
